@@ -1,1 +1,1 @@
-# basic-calculation-c-language
+# basic-calculation-c
